@@ -1,0 +1,44 @@
+Average Angles:
+right_knee: 116.2°
+right_hip: 79.4°
+right_elbow: 148.8°
+shoulder_angle: 80.2°
+torso_angle: 52.4°
+knee_extension: 164.4°
+
+AI Recommendations:
+**1. Detailed Biomechanical Analysis:**
+
+* The rider's knee angle is significantly below the ideal range, indicating a flexed knee position.
+* The hip angle is also below the ideal range, indicating a closed hip angle.
+* The elbow angle is within the ideal range, suggesting optimal upper body positioning.
+* The shoulder angle is slightly above the ideal range, indicating a slightly rounded shoulder position.
+* The torso angle is significantly below the ideal range, indicating a forward-leaning posture.
+* The knee extension is excessive, suggesting a high saddle position.
+
+**2. Potential Issues with Current Position:**
+
+* Knee pain due to excessive knee flexion
+* Hip pain and reduced flexibility due to closed hip angle
+* Back pain and neck strain due to forward-leaning posture
+* Reduced power output due to inefficient hip and knee mechanics
+
+**3. Specific Adjustments Needed:**
+
+* Raise the saddle to reduce knee flexion and improve hip extension.
+* Move the saddle slightly forward to open up the hip angle.
+* Adjust the handlebar position to reduce the forward lean and promote a more upright torso angle.
+* Consider using a handlebar with a different shape or angle to improve shoulder comfort.
+* Lower the seatpost to reduce knee extension and improve knee stability.
+
+**4. Risk of Injury Assessment:**
+
+* Increased risk of knee pain and patellofemoral syndrome due to excessive knee flexion.
+* Increased risk of hip pain and arthritis due to closed hip angle.
+* Increased risk of neck pain and headaches due to forward-leaning posture.
+
+**5. Performance Optimization Suggestions:**
+
+* Optimizing the bike fit will improve pedaling efficiency, reduce muscle fatigue, and increase power output.
+* Improved posture will reduce pain and discomfort during long rides.
+* A biomechanically sound bike fit will increase comfort and reduce the risk of cycling-related injuries.

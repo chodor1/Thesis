@@ -1,0 +1,56 @@
+Average Angles:
+right_knee: 116.2°
+right_hip: 79.4°
+right_elbow: 148.8°
+shoulder_angle: 80.2°
+torso_angle: 52.4°
+knee_extension: 164.4°
+
+AI Recommendations:
+Bike Fit Analysis:
+
+**Rider Details:**
+
+A 23-year-old rider with a height of 170 cm presents with a current saddle height of 81 cm.  This information provides a baseline for assessing their current riding position and making recommendations.
+
+**Biomechanical Analysis:**
+
+The rider's current position shows significant deviations from ideal biomechanical angles.  This suggests an inefficient and potentially injury-prone riding posture.  A 23-year-old is typically in peak physical condition, meaning their musculoskeletal system should be capable of handling greater exertion with proper biomechanics. However, improper positioning can negate this advantage and accelerate wear and tear.
+
+**Potential Issues:**
+
+The most concerning aspect is the significant deviations from optimal angles, indicating several potential issues:
+
+* **Knee Angle:**  The knee angle is substantially less than ideal. This suggests the saddle is likely too high or too far forward. This can lead to increased stress on the knees, potentially causing patellofemoral pain syndrome or other knee injuries.  The resulting over-extension of the knee during pedaling is particularly problematic.
+
+* **Hip Angle:** The hip angle is too high, directly related to the knee angle issue.  An excessively high hip angle reduces power transfer and can lead to lower back pain and hamstring strain.
+
+* **Elbow Angle:** While close to the ideal range, a slightly lower elbow angle would promote better hand positioning and reduce strain on the wrists, shoulders, and neck.
+
+* **Torso Angle:**  The torso angle is slightly outside the ideal range. This potentially contributes to discomfort and reduced efficiency.  A more upright posture, within the ideal range, generally leads to more balanced weight distribution and improved breathing.
+
+
+**Specific Adjustments:**
+
+* **Saddle Height:** The saddle height needs lowering.  This is the most significant adjustment required to address the knee and hip angle issues.  Lowering the saddle will allow for a more efficient pedal stroke and reduce knee strain.  A gradual reduction, with testing and feedback, is crucial.
+
+* **Saddle Fore/Aft Position:** The saddle may need to be moved slightly forward or backward depending on the outcome of the saddle height adjustment. This fine-tuning will optimize knee alignment and improve hip angle.
+
+* **Handlebar Height and Reach:**  Depending on the cause of the high hip and low knee angle, adjustments to the handlebar height (possibly raising them) and reach (potentially shortening it) might be needed to achieve a more neutral posture and improve comfort and power.
+
+
+**Risk of Injury Assessment:**
+
+The current position places the rider at a significant risk of developing knee pain, lower back pain, and hamstring injuries.  The young age offers some resilience but doesn’t negate the risks associated with prolonged cycling in this suboptimal position.
+
+**Performance Optimization:**
+
+Optimizing the bike fit directly impacts performance.  A more efficient position promotes better power transfer, reducing fatigue and increasing speed and endurance. Improved comfort will also allow the rider to maintain their optimal position for longer periods, further enhancing performance.
+
+**Comfort Recommendations:**
+
+Adjustments should focus on achieving a neutral, balanced posture. This means finding a position that allows comfortable pedaling without strain on the knees, hips, back, and shoulders.  This will greatly improve comfort during longer rides and reduce the chance of pain or injury. Padding and materials of the saddle, grips and shoes can further enhance comfort and reduce pressure points.
+
+
+
+This analysis provides general recommendations. A professional bike fitting is crucial for precise adjustments tailored to the individual’s unique anthropometry and riding style to address the issues outlined above.

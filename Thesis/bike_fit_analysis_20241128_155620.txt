@@ -1,0 +1,46 @@
+Average Angles:
+right_knee: 116.2°
+right_hip: 79.4°
+right_elbow: 148.8°
+shoulder_angle: 80.2°
+torso_angle: 52.4°
+knee_extension: 164.4°
+
+AI Recommendations:
+**Biomechanical Analysis:**
+
+* **Knee Angle:**
+  * Indicates excessive knee flexion during the pedal stroke.
+* **Hip Angle:**
+  * Insufficient hip flexion, resulting in reduced power generation.
+* **Elbow Angle:**
+  * Optimal for comfort and efficiency.
+* **Shoulder Angle:**
+  * Within the optimal range for maintaining upper body rigidity.
+* **Torso Angle:**
+  * Slightly above the ideal range, which can increase lower back strain.
+* **Knee Extension:**
+  * Excessive knee extension, indicating overextension and potential knee pain.
+
+**Potential Issues with Current Position:**
+
+* Reduced power output due to insufficient hip flexion.
+* Lower back discomfort due to increased torso angle.
+* Increased risk of knee pain from excessive extension.
+
+**Specific Adjustments Needed:**
+
+* Raise the saddle height to increase hip flexion.
+* Lower the handlebars slightly to reduce torso angle.
+* Adjust the cleat position to reduce knee extension.
+
+**Risk of Injury Assessment:**
+
+* Increased risk of knee pain due to excessive extension.
+* Potential for lower back strain from prolonged riding in a non-optimal torso position.
+
+**Performance Optimization Suggestions:**
+
+* Improving hip flexion will enhance power output.
+* Reducing torso angle will improve comfort and reduce strain on the lower back.
+* Optimizing knee extension will prevent knee pain and improve pedal efficiency.
