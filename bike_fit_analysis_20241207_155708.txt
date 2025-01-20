@@ -1,0 +1,27 @@
+Average Angles:
+right_knee: 116.2°
+right_hip: 79.4°
+right_elbow: 148.8°
+shoulder_angle: 80.2°
+torso_angle: 52.4°
+knee_extension: 164.4°
+
+Analysis:
+## Bike Fit Analysis: Road Bike
+
+**Rider Details:** A 24-year-old rider, 172cm tall, with a history of cardiovascular disease.  The current saddle height is 80cm.
+
+**Biomechanical Analysis:**  The rider's cardiovascular history is a significant factor.  Increased exertion on the cardiovascular system needs careful consideration during cycling.  A poorly fitted bike can exacerbate this pre-existing condition by creating unnecessary strain and inefficient energy expenditure.  At 24, the rider is relatively young and likely possesses good flexibility and strength potential, but this must be balanced with the cardiovascular limitations.  Optimal bike fit will minimize strain on the heart and maximize efficiency.
+
+**Potential Issues with Current Position:** The data shows significant deviations from ideal angles, suggesting a likely inefficient and potentially injury-prone riding position.  The rider is likely experiencing discomfort and reduced power output.  The considerable deviation from ideal knee and hip angles suggests significant strain on these joints, possibly leading to pain and decreased performance.  The torso angle is a bit steep, which may indicate an overly aggressive position that increases strain on the lower back and neck. 
+
+**Specific Adjustments:** The saddle height needs primary attention. Based on the significant deviations from ideal knee and hip angles, it is likely too high, or, less likely, too low. A professional bike fit is needed to fine-tune the saddle height. A slight lowering of the saddle might be the initial adjustment to test.  This could improve knee and hip alignment.  Further adjustments might include handlebar height and reach, to ensure a comfortable and efficient position with reduced strain. The handlebar position might require adjustment to improve shoulder and torso angles. This may involve stem length changes and adjustments to the handlebar height to allow a more upright, less stressful posture.  The overall goal is to promote efficient power transfer while minimizing stress on joints and the cardiovascular system.
+
+**Risk of Injury Assessment:**  The current position significantly increases the risk of knee, hip, and lower back injuries. The cardiovascular history adds another layer of risk, as strenuous or inefficient cycling can strain the heart. These risk factors increase with prolonged riding durations and higher intensity efforts.
+
+**Performance Optimization:**  Improving bike fit is crucial for performance optimization.  A well-adjusted bike will allow for more efficient power transfer, resulting in increased speed and endurance.   Efficient pedaling is paramount, reducing fatigue and improving cardiovascular performance.  This may involve strength and flexibility training to support improved posture and efficient movement.
+
+**Comfort Recommendations:**  Comfort is key, especially given the cardiovascular condition.  Ensuring adequate padding and support in the saddle and gloves will reduce discomfort and improve ride duration.  Regular breaks and gradual increases in ride duration will aid adaptation and avoid overexertion.  Adjustments to the cycling clothing can also improve comfort.
+
+
+**Disclaimer:** This analysis is based on limited information. A comprehensive professional bike fit by a certified fitter is highly recommended, especially considering the rider's cardiovascular history. This analysis should not be interpreted as medical or fitness advice.

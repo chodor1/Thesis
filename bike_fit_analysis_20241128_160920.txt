@@ -1,0 +1,54 @@
+Average Angles:
+right_knee: 116.2°
+right_hip: 79.4°
+right_elbow: 148.8°
+shoulder_angle: 80.2°
+torso_angle: 52.4°
+knee_extension: 164.4°
+
+AI Recommendations:
+**Biomechanical Analysis**
+
+Considering the rider's age (23 years) and height (170.0 cm), the following biomechanical observations can be made:
+
+- **Knee Angle:** The angle of 116.21919250488281° is significantly below the ideal range of 140-150°, indicating that the saddle may be too low.
+- **Hip Angle:** The hip angle of 79.38733673095703° is also outside the ideal range of 45-55°, suggesting that the saddle may be too low or the handlebars too far forward.
+- **Elbow Angle:** The elbow angle of 148.77294921875° is within the ideal range of 150-165°, indicating a comfortable position for the upper body.
+- **Shoulder Angle:** The shoulder angle of 80.15370178222656° is within the ideal range of 80-90°, suggesting an appropriate torso posture.
+- **Torso Angle:** The torso angle of 52.387733459472656° is slightly outside the ideal range of 40-45°, indicating that the rider may be leaning too far forward.
+
+**Potential Issues with Current Position**
+
+Based on the measured angles, the following potential issues with the current position can be identified:
+
+- **Knee pain:** The low saddle height may cause excessive knee flexion, leading to discomfort and potential injury over time.
+- **Hip flexor tightness:** The low saddle height or excessive forward position of the handlebars may cause tightness in the hip flexor muscles.
+- **Back strain:** The torso leaning too far forward may put stress on the lower back, leading to discomfort and muscle fatigue.
+
+**Specific Adjustments Needed**
+
+To address the potential issues, the following specific adjustments are recommended:
+
+- **Saddle Height:** The saddle should be raised to achieve a knee angle closer to the ideal range of 140-150°.
+- **Handlebar Position:** The handlebars may need to be moved farther back to reduce the hip angle to the ideal range.
+- **Stem Length:** A shorter stem may be necessary to bring the handlebars closer to the rider, thus reducing the torso angle.
+
+**Risk of Injury Assessment**
+
+Based on the rider's age and measurements, the risk of injury is relatively low. However, prolonged riding with the current suboptimal position may increase the risk of knee pain, hip flexor tightness, and lower back strain.
+
+**Performance Optimization Suggestions**
+
+To optimize performance, the following suggestions can be considered:
+
+- **Maintain Optimal Cadence:** Focus on maintaining a cadence of 80-90 RPM to reduce strain on the knees and improve efficiency.
+- **Incorporate Core Exercises:** Strengthen the core muscles to support the lower back and improve posture.
+- **Use Cycling Shoes:** Cycling shoes provide support and efficient power transfer, enhancing performance.
+
+**Comfort Recommendations**
+
+For improved comfort, the following recommendations are provided:
+
+- **Use a Padded Saddle:** A saddle with adequate padding can reduce pressure on the sit bones and increase comfort during long rides.
+- **Consider Cycling Shorts with Padding:** Cycling shorts provide cushioning and reduce friction, enhancing comfort over extended periods.
+- **Adjust Seat Inclination:** Adjust the saddle inclination slightly forward or backward to optimize pressure distribution and minimize discomfort.

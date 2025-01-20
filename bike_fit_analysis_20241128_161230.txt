@@ -1,0 +1,10 @@
+Average Angles:
+right_knee: 116.2°
+right_hip: 79.4°
+right_elbow: 148.8°
+shoulder_angle: 80.2°
+torso_angle: 52.4°
+knee_extension: 164.4°
+
+AI Recommendations:
+Error getting AI recommendations: 404 models/gemini-flash-1.5 is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.

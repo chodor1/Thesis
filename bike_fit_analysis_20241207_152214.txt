@@ -1,0 +1,59 @@
+Average Angles:
+right_knee: 116.2°
+right_hip: 79.4°
+right_elbow: 148.8°
+shoulder_angle: 80.2°
+torso_angle: 52.4°
+knee_extension: 164.4°
+
+Analysis:
+## Bike Fit Analysis: Road Bike
+
+This analysis lacks crucial rider information (age, height, medical history, and previous bike experience).  Without this data, a complete and accurate assessment is impossible.  However, a general analysis based on the *absence* of specific data and the knowledge that the provided angles are outside the ideal ranges can be offered.
+
+**1. Biomechanical Analysis (General):**
+
+The lack of rider details prevents a detailed biomechanical analysis.  However, we can state that the rider's current position likely deviates significantly from optimal biomechanics for road cycling.  Age and height influence leg length, torso length, and overall flexibility, all impacting ideal bike fit.  Medical history, particularly concerning prior injuries to the knees, hips, back, or shoulders, is critical for determining appropriate adjustments and mitigating further risk.  Previous bike experience informs the rider's adaptation capabilities and preferred riding style.
+
+
+**2. Potential Issues with Current Position:**
+
+Given that the measured angles are far from ideal, several issues are highly probable:
+
+* **Knee Pain:**  The knee angle is significantly lower than ideal, suggesting potential over-extension and strain on the knee joint, especially during prolonged riding. This is compounded by a high knee extension angle, suggesting potential for patellar tendonitis.
+* **Hip and Back Issues:** The hip angle is too high, possibly contributing to lower back pain and tightness. This could also cause discomfort and reduced power transfer.
+* **Shoulder and Neck Discomfort:**  While the shoulder angle is within the ideal range,  the combination of other postural issues can lead to compensations resulting in neck and shoulder strain.
+* **Reduced Power Output:**  Suboptimal positioning can compromise power transfer from the legs to the pedals, affecting performance and endurance.
+
+
+**3. Specific Adjustments:**
+
+Without knowing the rider's dimensions, only general suggestions can be provided.  A professional bike fit is crucial for accurate adjustments. However, the likely needed adjustments include:
+
+* **Saddle Height:**  Almost certainly requires adjustment.  The combination of poor knee and hip angles strongly indicates the saddle is likely too low. Raising the saddle may improve knee extension and alleviate knee pain, but must be done carefully to avoid overextension.
+* **Saddle Fore/Aft Position:**  May need adjustment to optimize knee angle and hip alignment.
+* **Handlebar Height and Reach:**  Adjustments to these will influence torso and shoulder angles, potentially addressing back and neck discomfort. This might involve raising the handlebars or shortening the reach.
+* **Cleat Position:**  Improper cleat position can contribute to knee issues; a professional fitting should assess and adjust this.
+
+
+**4. Risk of Injury Assessment:**
+
+Without age, height, and medical history, a proper risk assessment is not possible. However, the deviation from ideal angles considerably increases the risk of developing or exacerbating injuries to the knees, hips, back, neck, and shoulders.  Older riders or those with pre-existing conditions are at even higher risk.
+
+
+**5. Performance Optimization:**
+
+Optimal bike fit is paramount for performance.  Correcting the biomechanical issues will likely lead to:
+
+* **Increased Power Output:** Improved posture and alignment will enable more efficient power transfer.
+* **Enhanced Endurance:**  Better posture reduces fatigue and allows for longer rides.
+* **Improved Aerodynamics:**  A more aerodynamic position will reduce wind resistance, leading to higher speeds with less effort.
+
+
+**6. Comfort Recommendations:**
+
+Comfort depends heavily on the rider's preferences and experience. However, addressing the biomechanical issues will improve comfort significantly.  It’s crucial to consider factors like saddle type and padding, handlebar tape material, and clothing fit to further enhance comfort.  A proper bike fit session should address these aspects as well.
+
+**Conclusion:**
+
+This analysis highlights the importance of a professional bike fit.  The significant deviations from ideal angles strongly suggest adjustments are necessary to improve both comfort and performance and reduce the risk of injury.  The rider *must* consult with a qualified bike fitter to obtain a personalized assessment and effective adjustments.  Providing the missing information will allow for a much more precise and helpful analysis.

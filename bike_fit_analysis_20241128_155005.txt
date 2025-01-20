@@ -1,0 +1,56 @@
+Average Angles:
+right_knee: 116.2°
+right_hip: 79.4°
+right_elbow: 148.8°
+shoulder_angle: 80.2°
+torso_angle: 52.4°
+knee_extension: 164.4°
+
+AI Recommendations:
+## **Biomechanical Analysis**
+
+The provided bike fit data indicates the following biomechanical observations:
+
+1. **Knee Angle:** The knee angle of 116.21919250488281° is significantly below the ideal range of 140-150°. This suggests that the rider's seat is too low, causing the knees to be overly flexed.
+2. **Hip Angle:** The hip angle of 79.38733673095703° is also below the ideal range of 45-55°. This indicates that the rider's seat is too far forward, placing excessive strain on the hip flexors.
+3. **Elbow Angle:** The elbow angle of 148.77294921875° is within the ideal range of 150-165°. However, it is slightly higher than the optimal angle, which could indicate that the rider's handlebars are too low or too far away.
+4. **Shoulder Angle:** The shoulder angle of 80.15370178222656° is slightly above the ideal range of 80-90°. This suggests that the rider may be hunching their shoulders, which can lead to neck and back discomfort.
+5. **Torso Angle:** The torso angle of 52.387733459472656° is significantly higher than the ideal range of 40-45°. This indicates that the rider is sitting too upright, which can lead to reduced power output and discomfort.
+6. **Knee Extension:** The knee extension of 164.44410705566406° is within the normal range. However, it is slightly below the optimal extension of 165-175°, which could indicate that the rider's seat is slightly too high.
+
+## **Potential Issues with Current Position**
+
+Based on the biomechanical analysis, the following potential issues with the rider's current position can be identified:
+
+1. **Overly Flexed Knees:** The low seat height can cause the knees to be excessively flexed, which can lead to knee pain, IT band syndrome, and reduced power output.
+2. **Excessive Hip Flexion:** The forward seat position can put excessive strain on the hip flexors, which can lead to hip pain, lower back pain, and reduced mobility.
+3. **Neck and Back Discomfort:** The hunched shoulders and upright torso can lead to neck and back pain, as well as reduced breathing capacity.
+4. **Reduced Power Output:** The upright torso and overly flexed knees can reduce power output by limiting the rider's ability to generate leverage and transfer power to the pedals.
+
+## **Specific Adjustments Needed**
+
+To address the potential issues with the current position, the following specific adjustments are recommended:
+
+1. **Raise the Seat:** Raise the seat height slightly to reduce knee flexion and improve knee extension.
+2. **Move the Seat Back:** Move the seat back slightly to reduce hip flexion and improve hip mobility.
+3. **Raise the Handlebars:** Raise the handlebars slightly to reduce shoulder hunching and improve breathing capacity.
+4. **Lower the Torso:** Lower the torso angle by adjusting the stem or handlebars to a more forward position.
+
+## **Risk of Injury Assessment**
+
+The current position increases the risk of the following injuries:
+
+1. **Knee Pain:** Overly flexed knees can put excessive stress on the knee joint, leading to pain and potential injury.
+2. **IT Band Syndrome:** Overly flexed knees can also put excessive stress on the IT band, leading to pain and inflammation.
+3. **Hip Pain:** Excessive hip flexion can put excessive strain on the hip flexors, leading to pain and discomfort.
+4. **Lower Back Pain:** An upright torso can put excessive strain on the lower back muscles, leading to pain and discomfort.
+5. **Neck Pain:** A hunched shoulder position can put excessive strain on the neck muscles, leading to pain and discomfort.
+
+## **Performance Optimization Suggestions**
+
+In addition to the adjustments needed to address potential issues, the following suggestions can be made to optimize performance:
+
+1. **Increase Cadence:** A higher cadence can reduce knee flexion and improve overall efficiency.
+2. **Use Clipless Pedals:** Clipless pedals allow for a more efficient transfer of power to the pedals.
+3. **Strengthen Core Muscles:** Strong core muscles help stabilize the torso and reduce lower back pain.
+4. **Perform Regular Stretching:** Regular stretching can help improve hip and knee flexibility and reduce the risk of injury.

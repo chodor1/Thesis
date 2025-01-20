@@ -1,0 +1,37 @@
+Average Angles:
+right_knee: 116.2°
+right_hip: 79.4°
+right_elbow: 148.8°
+shoulder_angle: 80.2°
+torso_angle: 52.4°
+knee_extension: 164.4°
+
+Analysis:
+## Bike Fit Analysis: Road Bike
+
+This analysis considers a 22-year-old rider, 170cm tall, with a history of cardiovascular disease, fitted to a road bike.  The analysis focuses on biomechanics and fitting without explicitly mentioning the numerical angle measurements.
+
+**1. Biomechanical Analysis:**
+
+At 22 years old, the rider is within the prime athletic age range.  However, the presence of cardiovascular disease is a significant factor.  This condition may impact endurance and necessitate a more cautious approach to training intensity and duration.  The rider's height is average, providing a baseline for typical anthropometric measurements.  Proper bike fit is crucial to optimize performance while minimizing strain on the cardiovascular system.  A fit that promotes efficient pedaling, reduces unnecessary muscle exertion, and maintains comfortable breathing is paramount.
+
+**2. Potential Issues with Current Position:**
+
+The rider's current position likely involves significant compromises in comfort and efficiency.  The data suggests a posture that may be placing excessive strain on the lower back and knees.  An overly upright or hunched posture could negatively impact power transfer, breathing mechanics, and overall comfort.  The rider may experience discomfort, particularly during extended rides, potentially manifesting as knee pain, back pain, or general fatigue.
+
+
+**3. Specific Adjustments:**
+
+The saddle height is a critical starting point.  It needs adjustment to achieve optimal knee extension and leg extension throughout the pedal stroke.  This will likely require raising the saddle.  The current seat position seems too low, and a higher saddle position will improve power transfer and reduce knee strain.  Further adjustments may be necessary for handlebar position.  A potentially overly upright or reclined torso position needs to be addressed, possibly requiring handlebar adjustments (height, reach, stem length) to find a more aerodynamic and comfortable position that supports efficient power output and reduces back strain.  Careful consideration should be given to foot positioning and cleat placement to ensure optimal ankle, knee, and hip alignment.
+
+**4. Risk of Injury Assessment:**
+
+The rider's cardiovascular disease increases the risk of injury during cycling.  Improper bike fit exacerbates this risk, potentially leading to overuse injuries in the lower extremities (knees, hips) and back due to strain and improper biomechanics.  Excessive exertion can also strain the cardiovascular system, potentially triggering complications.  A well-fitted bike mitigates these risks by promoting efficient movement and reducing undue stress on the body.
+
+**5. Performance Optimization Suggestions:**
+
+For road biking, optimizing power transfer and aerodynamic efficiency is essential.   A proper bike fit directly improves both.   Improved efficiency will reduce the cardiovascular workload, allowing for longer rides and higher intensity training within the rider's capabilities.  Proper core engagement is also crucial for maintaining efficient posture and power transfer, and this should be incorporated in training.   Flexibility and strength training (especially core, hip, and leg) are important to improve comfort and efficiency and reduce injury risk.
+
+**6. Comfort Recommendations:**
+
+Given the rider's age and cardiovascular condition, comfort is paramount.  The saddle should provide adequate cushioning and support.  Padding in areas where pressure points often develop (seat bones, hands) should be considered.   Appropriate clothing and footwear that reduce friction and pressure points will improve comfort during longer rides.  Regular breaks and hydration are critical to manage fatigue and prevent exertion-related complications.  Progressive increases in riding duration and intensity should be prioritized to minimize strain and prevent injuries.  The rider may benefit from regular assessment and fine-tuning of the fit to accommodate changes in flexibility and fitness over time.
